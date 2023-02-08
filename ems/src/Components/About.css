@@ -1,0 +1,23 @@
+.h21 {
+   color: darkslategrey;
+    text-align: center;
+}
+
+.h41 {
+    color:darkslateblue;
+    height: 100px;
+    text-align:center;
+    margin-top: 50px;
+    border-radius: 15px;
+    
+}
+
+.aboutdiv {
+    padding-top: 100px;
+}
+
+.aboutbody {
+    background-color:lightcyan;
+    width: 100%;
+    height: 500px;
+}
